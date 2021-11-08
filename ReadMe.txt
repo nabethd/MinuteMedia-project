@@ -1,5 +1,5 @@
 How To run the service:
-1 - to install all dependencies requierd, run "npm install" in the DrorNavon Folder Terminal. (i.e: cd to c/..../DrorNavon)
+1 - to install all dependencies requierd, run "npm install" in the MinuteMedia-project Folder Terminal. (i.e: cd to c/..../MinuteMedia-project)
 2- to start the server, run "npm start"
 
 once the server as started open a browser and:
